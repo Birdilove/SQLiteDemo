@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SQLiteDemo</string>
+    <string name="ap_description">A simple Tasks app to demonstrate the use of SQLite Database.\n
+        Swipe the tasks left or right to delete.\n
+        Click on tasks to edit the text.\n
+        Click on the + Button below to add a new task.
+    </string>
+    <string name="SaveButton">Save</string>
+    <string name="Text">Enter some text to add to Tasks</string>
+</resources>
